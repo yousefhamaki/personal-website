@@ -692,3 +692,14 @@ small {
     background-position-x: 30%;
   }
 }
+
+.row .col.l6 {
+  width: 100%;
+  margin-left: 0;
+  margin: 10px auto;
+}
+
+.card {
+  margin-bottom: 0px;
+}
+
