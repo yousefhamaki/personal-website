@@ -1,0 +1,4 @@
+id,plan_name,price,billing_cycle,currency,client_limit,invoice_limit,reporting_level,support_level,team_access,team_user_limit,api_access,custom_branding,created_at,updated_at
+"1a2b3c4d-5e6f-7g8h-9i0j-klmno1pqr2st","Basic",99.99,"yearly","USD",50,100,"basic","email",0,0,0,0,"2025-04-27T15:00:00","2025-04-27T15:00:00"
+"3d4e5f6g-7h8i-9j0k-l1mno2pqr3st","Professional",199.99,"yearly","USD",,,"advanced","email_chat",1,3,0,0,"2025-04-27T15:00:00","2025-04-27T15:00:00"
+"7j8k9l0m-1n2o3pqr-4st5uv6w7x8y","Enterprise",399.99,"yearly","USD",,,"custom","priority",1,,1,1,"2025-04-27T15:00:00","2025-04-27T15:00:00"
