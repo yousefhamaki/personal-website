@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://hamaki.vercel.app/",
+      "destination": "https://yousefhamaki.pro/",
       "permanent": true
     }
   ]
